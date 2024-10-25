@@ -1,0 +1,9 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities"; 
+
+
+/* Define the font family for all html elements */
+body {
+    font-family: 'Calibri', sans-serif;
+}
